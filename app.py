@@ -18,7 +18,7 @@ from flask_login import LoginManager, UserMixin, login_user, login_required, log
 from zipfile import BadZipFile
 import qrcode
 from io import BytesIO
-import base64    
+import base64        
 
 
 
